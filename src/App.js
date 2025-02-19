@@ -1,10 +1,9 @@
 import React from "react";
-import PasswordValidateForm from "./PasswordValidateForm";
-
+import ValidationForm from "./pages/validationForm/ValidationForm"
 
 function App() {
   return (
-    <PasswordValidateForm />
+    <ValidationForm />
   );
 }
 
